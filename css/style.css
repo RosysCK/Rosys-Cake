@@ -1701,6 +1701,7 @@ input[type="radio"] .styled:checked+label::after {
 .about .about-box {
      text-align: center;
 }
+/*Acerca de nosotros*/
 .about .about-box h2 {
      font-size: 50px;
      font-weight: bold;
@@ -1727,7 +1728,7 @@ input[type="radio"] .styled:checked+label::after {
      padding: 0px 0px 36px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #fff;
+     color: white;
      line-height: 50px;
      position: relative;
      margin-bottom: 20px;
@@ -1739,12 +1740,12 @@ input[type="radio"] .styled:checked+label::after {
      top: 70%;
      margin: 10px auto;
      height: 6px;
-     background: #fff;
+     background: #BE0032;
      width: 45%;
      right: -295px;
 }
 .about-box .titlepage span {
-     color: #fff;
+     color: black;
      font-size: 17px;
      line-height: 32px;
      display: block;
@@ -1761,7 +1762,7 @@ input[type="radio"] .styled:checked+label::after {
      margin-top: 30px;
 }
 .about-box .titlepage .read-more a:hover {
-     background-color: #000;
+     background-color: #BE0032;
      color: #fff;
 }
 .Gallery {
@@ -2106,7 +2107,7 @@ ul.location_icon span {
 #main_slider .carousel-control-next:hover,
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-next:focus {
-     background: #308409;
+     background: #BE0032;
      color: #fff;
 }
 #main_slider a.carousel-control-prev {
