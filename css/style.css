@@ -1591,12 +1591,12 @@ input[type="radio"] .styled:checked+label::after {
      color: #FFB4BF;
 }
 .banner-main .carousel-caption p {
-     color: #FFB4BF;
+     color: #0c0404;
      padding: 9px 0px;
      margin-bottom: 50px;
 }
 .color {
-     color: #FFB4BF;
+     color: #0c0404;
 }
 .btn-primary {
      background: #000;
